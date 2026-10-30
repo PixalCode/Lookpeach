@@ -16,5 +16,4 @@
 ใส่ URL ของ webhook ที่ `webhookUrl` ใน `config.js` (ใส่แล้ว URL จะมองเห็นได้จากหน้าเว็บ
 ถ้าเป็นลิงก์สาธารณะ แนะนำใช้ตัวกลางเช่น Cloudflare Worker แทน)
 
-## นำขึ้นเว็บ
-อัปโหลดทั้งโฟลเดอร์ไปที่ Netlify, GitHub Pages หรือ Vercel แล้วส่งลิงก์ให้ได้เลย
+https://pixalcode.github.io/Lookpeach/
